@@ -1,0 +1,20 @@
+{
+    "username": "Username",
+    "nickname": "Nickname",
+    "password": "Password",
+    "email": "Email",
+    "validation": {
+        "INVALID_STRING": "Invalid string format for $t({{field}}).",
+        "INVALID_ALPHANUMERIC": "Invalid format for $t({{field}}).",
+        "NOT_EMPTY": "$t({{field}}) cannot be empty.",
+        "INVALID_BOOLEAN": "Invalid boolean value for $t({{field}}).",
+        "INVALID_EMAIL": "Invalid email address"
+    },
+    "callback": {
+        "USER_NOT_FOUND": "The user not found.",
+        "LOGIN_SUCCESS": "Login successful.",
+        "REGISTER_SUCCESS": "Registration successful.",
+        "TOKEN_NOT_VALID": "Invalid token.",
+        "TOKEN_VALID": "Token is valid."
+    }
+}

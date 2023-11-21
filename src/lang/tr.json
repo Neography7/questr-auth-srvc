@@ -1,0 +1,20 @@
+{
+  "username": "Kullanıcı Adı",
+  "nickname": "Takma Ad",
+  "password": "Şifre",
+  "email": "E-posta",
+  "validation": {
+    "INVALID_STRING": "Geçersiz $t({{field}}) formatı.",
+    "INVALID_ALPHANUMERIC": "Geçersiz $t({{field}}) formatı.",
+    "NOT_EMPTY": "$t({{field}}) boş olamaz.",
+    "INVALID_BOOLEAN": "Geçersiz boolean değeri: $t({{field}}).",
+    "INVALID_EMAIL": "Geçersiz e-posta adresi"
+  },
+  "callback": {
+    "USER_NOT_FOUND": "Kullanıcı bulunamadı.",
+    "LOGIN_SUCCESS": "Giriş başarılı.",
+    "REGISTER_SUCCESS": "Kayıt başarılı.",
+    "TOKEN_NOT_VALID": "Token geçersiz.",
+    "TOKEN_VALID": "Token geçerli."
+  }
+}
